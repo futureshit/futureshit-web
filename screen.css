@@ -1,0 +1,19 @@
+body {background-color: #000000; color: #00cc00; text-transform: uppercase; font-weight: bold; font-size: large;}
+pre {max-width: 70%; white-space: pre-line;}
+a {color: #ff0000;text-decoration: none;}
+div.image {position: absolute; right: 20px; padding: 10px; max-width: 30%} 
+.blink {
+  animation: blink-animation 1s steps(2, start) infinite;
+  -webkit-animation: blink-animation 1s steps(2, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
