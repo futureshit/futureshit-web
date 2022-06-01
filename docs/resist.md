@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Widerstand</title>
-<link rel="stylesheet" type="text/css" href="screen.css">
-</head>
-<body>
-    <pre>
-~$ less Widerstand
    Eine Auflistung möglicher widerständischer Praktiken:
 
    - Datenverweigerung bzw. Opt-Out
@@ -22,9 +12,4 @@
    - Multiple Accountbenutzung – Verwischen der Personalisierung
    - „Rauschen“ erzeugen
    - Unbeständig sein
-<span style="color:black;background:#00cc00;">(END)</span>
-<a href="/">quit</a>
-    </pre>
-</body>
-</html>
 

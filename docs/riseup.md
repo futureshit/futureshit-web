@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Kommerzielle Überwachung</title>
-<link rel="stylesheet" type="text/css" href="../screen.css">
-</head>
-<body>
-<pre>
-~$ less R153 UP!
 <blockquote>Erhebt euch, ihr habt nichts zu verlieren außer euren Stacheldrahtzäunen!
 ~ <i>Aus dem Krypto-Anarchistischen Manifest von 1988</i> 
 </blockquote>
@@ -25,7 +15,7 @@ Die allgegenwärtige staatliche Überwachung ließ sich zuletzt in der Metapher 
 Diese flüchtige Überwachung geht aber nicht nur von den  Sensoren um uns herum aus, sondern auch von uns selbst - wir lieferen jederzeit Daten über uns, überwachen uns selbst, optimieren uns - wir passen uns an den Markt an, nicht der Markt an uns. Dabei kann jedes noch so sinnlose Detail unseres Tagesablaufes, in der Summe zu verwertbaren Informationen werden. Bevor wir wissen,  was wir morgen kaufen wollen, erkennen die Sensoren unseren Zustand und stubsen (Stichwort: Nudging) uns in Richtung des Konsums. Nicht nur Google weiß von uns, ob wir schwanger sind - unsere Versicherung, unsere Arbeitgeber, Dr. Oetker und nicht zuletzt die Hersteller von Kinderspielsachen wissen es. Und so bekommen wir die Werbung, die auf uns zugeschnitten ist - auch in Form von Nachrichten (Stichwort: Sponsored Content). Und so wird die Zukunft aus dem heute erlebten, geteilten, gelikten Stück für Stück zusammengesetzt und morgen kaufen wir diese "Zukunft" über Amazon oder schauen sie bei Netflix.
 
 
-Angriff & Verteidigung
+Angriff und Verteidigung
 ======================
 
 Das soziale Leben wurde durch das Internet und all die technologischen Entwicklungen um den digitalen Raum erweitert. Während wir  als emanzipatorische Linke täglich um den öffentlichen Raum kämpfen und größtenteils verlieren,  werden wir nun auch auf diesen digitalen Ebenen eingeschränkt und attackiert. Und gerade um diesen neuen Raum mit all seinen Möglichkeiten müsste eigentlich auch die "klassische"  Linke kämpfen. Wo bleibt die Solidarität für Whistleblower*innen und Hacker*innen die im Dienste der Allgemeinheit Daten offenlegten und Infrastruktur angriffen? Wo bleiben die digitalen Sitzblockaden, Besetzungen und Sabotagen? Wo die Maschinenstürmer*innen?
@@ -48,10 +38,4 @@ Hintergrund für diesen Beitrag sind die Veröffentlichungen des Capulcu Kollekt
 
 
 * Stichwort: "Propaganda der Tat" - anarchistische Anschläge auf Herrschende häuften sich seit der Industrialisierung und Industrielle sowie Kriminalbeamte halluzinierten sich eine Verschwörung von Anarchist*innen gegen die herrschende Ordnung der Monarchien im 19. & frühen 20. Jahrhundert her. 
-
-
-<span style="color:black;background:#00cc00;">(End)</span>
-<a href="/">quit</a>
-</pre>
-</body></html>
 

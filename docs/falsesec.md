@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Falsche Sicherheit</title>
-<link rel="stylesheet" type="text/css" href="../screen.css">
-</head>
-<body>
-    <pre>
-~$ less falsche sicherheit
-
-                   Sicherheit ist NIE kostenlos!
-                   =============================
+> Sicherheit ist NIE kostenlos!
 
 Es gibt tausende <a href="https://www.privacy-handbuch.de/handbuch_22b2.htm" target="_blank">Anbieter</a> von kostenlosen Email-Postfächern, Proxy´s,
 VPN´s, etc. im Netz – doch wie kann etwas sicher sein was nichts kostet?
@@ -23,11 +11,6 @@ pseudo-sicheren Dienst oder arbeitet einfach Hand in Hand mit dem
 Provider (Siehe <a href="http://www.wired.com/2007/11/hushmail-to-war/" target="_blank">Hushmail</a>, <a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/" target="_blank">safe-mail</a>, etc.).
 
 Provider, denen man vertrauen kann und die es auch wert sind etwas Geld
-zu investieren (Spendenbasis!), findest du <a title="Service Provider" href="service_provider.html" target="_blank">hier</a>.
+zu investieren (Spendenbasis!), findest du [hier](provider.md).
 
-<span style="color: black;background: #00cc00;">(END)</span>
-<a href="/">quit</a>
-    </pre>
-
-</body></html>
 

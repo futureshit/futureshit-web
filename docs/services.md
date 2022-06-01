@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Properitäre Dienste</title>
-<link rel="stylesheet" type="text/css" href="../screen.css">
-</head>
-<body>
-    <pre>
-~$ less Properitäre Dienste
 
 Properitäre Dienste, die mit ihren kostenlos Angeboten Kunden 
 locken und „Sicherheit“ versprechen, haben größtensteils einen großen 
@@ -46,9 +36,4 @@ Adressbüchern.
 <a href="https://www.googlewatchblog.de/2013/07/nsa-prism-co-diese/" target="_blank">Metadaten aus deinen Emails auslesen und visualisieren</a> (Google, Yahoo)
 <a href="https://apps.opendatacity.de/prism/de" target="_blank">Beispiele von Anfragen an Internetdienste aus Deutschland</a> (Amazon, YouTube, Twitter, Facebook, Dropbox, Googlemail,Skype, Whatsapp, …)
 
-<span style="color:black;background:#00cc00;">(End)</span>
-<a href="/">quit</a>
-    </pre>
-</body>
-</html>
 

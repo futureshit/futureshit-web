@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Kommerzielle Überwachung</title>
-<link rel="stylesheet" type="text/css" href="../screen.css">
-</head>
-<body>
-<pre>
-~$ less Kommerzielle Überwachung
 <blockquote>Einer Mehrheit ist überhaupt nicht bewusst, wie flächendeckend unser Verhalten bereits auf 
 Basis digitaler Daten analysiert, eingeordnet und bewertet wird. 
 Mögliche negative Auswirkungen auf Einzelne sind schwer vorstellbar, 
@@ -18,8 +8,7 @@ Smartphone-Apps.
 </blockquote>
 <center><img src="https://safeaddress.files.wordpress.com/2012/10/130902-datenhandel-prisma-1800-13503.jpg" width="1000" height=auto></center>
 
-<blockquote cite="http://crackedlabs.org/studie-kommerzielle-ueberwachung">
-Was „Likes“ aussagen
+##Was „Likes“ aussagen
 ====================
 
 Allein aus Facebook-Likes kann mit hoher Zuverlässigkeit auf persönliche
@@ -32,7 +21,7 @@ Internet-Suchanfragen, gekaufte Produkte oder musikalische Vorlieben
 bieten einen ähnlichen Informationsgehalt.
 
 
-Charakter und Emotionen
+##Charakter und Emotionen
 =======================
 
 Aus Telefonie-Verhalten wie etwa der Häufigkeit von Anrufen lassen sich
@@ -45,7 +34,7 @@ Trauer oder Müdigkeit lassen sich relativ zuverlässig aus der Analyse
 von Rhythmus und Dynamik des Tippens erkennen.
 
 
-Zukünftiges Verhalten?
+##Zukünftiges Verhalten?
 ======================
 
 Aus der Kenntnis vergangener GPS-Standorte lassen sich zukünftige
@@ -57,7 +46,7 @@ sich sogar die Wahrscheinlichkeit einer Trennung innerhalb der nächsten
 zwei Monate vorhersagen.
 
 
-Viele Tippfehler – kein Kredit?
+##Viele Tippfehler – kein Kredit?
 ===============================
 
 Bonitätsbewertung mit Online-Daten: Das von einem ehemaligen Google
@@ -70,7 +59,7 @@ die Art, wie der Online-Kreditantrag ausgefüllt wird, fließen ein – und
 die Häufigkeit der Nutzung der Löschtaste.
 
 
-Falscher Browser – kein Job?
+##Falscher Browser – kein Job?
 ============================
 
 Personalentscheidungen mit Big Data : Die Firma Evolv hilft
@@ -82,7 +71,7 @@ Online-Bewerbung. Das Startup ConnectedCube befasst sich mit der
 Vorhersage der zukünftigen Leistung von Angestellten.
 
 
-Preisdiskriminierung?
+##Preisdiskriminierung?
 =====================
 
 Große internationale Online-Shops zeigen KonsumentInnen auf Basis von
@@ -97,7 +86,7 @@ Praktiken keine Chance mehr, zu verstehen, wie ihr individueller Preis
 oder die Auswahl der ihnen angebotenen Produkte zustande kommen.
 
 
-Achtung beim Einkauf oder beim Spielen
+##Achtung beim Einkauf oder beim Spielen
 ======================================
 
 Krankheitsprognosen aus Konsumverhalten: Die große US-Versicherung Aviva
@@ -106,7 +95,7 @@ Diabetes, hohem Blutdruck oder Depression allein aus Daten über
 Konsumverhalten, Lebensstil oder Einkommen.
 
 
-Emotionale Manipulation?
+##Emotionale Manipulation?
 ========================
 
 Das Werbeunternehmen MediaBrix analysiert die Emotionen von
@@ -116,7 +105,7 @@ damit die Effektivität der Werbung im Web um 15% und bei mobilen Apps
 sogar um 30% steigern.
 
 
-Spione in der Hosentasche?
+##Spione in der Hosentasche?
 ==========================
 
 Smartphones ermöglichen mit ihren unzähligen Sensoren und den darauf
@@ -132,7 +121,7 @@ die NutzerInnen nicht ausreichend darüber informieren, welche Daten
 genutzt und weitergegeben werden.
 
 
-Günstigere Versicherung
+##Günstigere Versicherung
 =======================
 
 Überwachungsboxen im Auto zeichnen rund um die Uhr das Fahrverhalten auf
@@ -146,7 +135,7 @@ der Nacht oder in der Stadt fährt, oder zu oft stark beschleunigt oder
 bremst, riskiert einen Verlust des Prämienrabatts von 5%.
 
 
-Weitergabe von Gesundheitsdaten
+##Weitergabe von Gesundheitsdaten
 ===============================
 
 Fitness-Tracker und Smartwatches : Tragbare Geräte und Apps zur
@@ -176,7 +165,7 @@ den USA direkte Rabatte auf Versicherungsprämien erhalten – oder gar
 Strafen bei Nicht-Erreichen der Fitness-Ziele.
 
 
-Vernetzte Sensoren im Alltag
+##Vernetzte Sensoren im Alltag
 ============================
 
 Allgegenwärtige Überwachung im Internet der Dinge ? Immer mehr
@@ -205,7 +194,7 @@ Arbeitsweisen. Dies könnte laut ExpertInnen zu massiven Auswirkungen auf
 die Möglichkeit führen, das eigene Leben zu kontrollieren.
 
 
-Adressen von kirchlichen Verlagen bis Erotik
+##Adressen von kirchlichen Verlagen bis Erotik
 ============================================
 
 Daten- und Adresshandelsfirmen im deutschen Sprachraum handeln mit
@@ -221,7 +210,7 @@ adressqualifizierende Profilinformationen zum Beispiel zu
 Soziodemografie, Psychografie, Konsumeigenschaften, Lebensphasen“.
 
 
-Von Negativlisten zu komplexen Scoring-Modellen
+##Von Negativlisten zu komplexen Scoring-Modellen
 ===============================================
 
 Wirtschaftsauskunfteien im deutschen Sprachraum bieten Bonitätsbewertung
@@ -247,7 +236,7 @@ angebotenes Scoring -Produkt wird mit folgendem Satz beworben: „Kunden
 mit hohem Ertragspotenzial sollen gewonnen, Kunden mit hohem Risiko von
 Anfang an gemieden werden“.
 
-Acxiom: Daten über 700 Millionen Menschen
+##Acxiom: Daten über 700 Millionen Menschen
 =========================================
 
 Internationale Player im Geschäft mit den persönlichen Daten in den USA
@@ -273,7 +262,7 @@ gebracht“. Acxiom ist auch in Deutschland tätig und besitzt laut der
 Wochenzeitung Die Zeit Daten über 44 Millionen Deutsche.
 
 
-Datalogix, Lexis Nexis und Recorded Future
+##Datalogix, Lexis Nexis und Recorded Future
 ==========================================
 
 Weitere Beispiele für internationale „Data Broker“: Das Unternehmen
@@ -296,7 +285,7 @@ sowohl für Unternehmen als auch für Militär und Geheimdienste – seit
 US-Geheimdienst CIA an Recorded Future beteiligt.
 
 
-Zugriff auf 1,4 Milliarden Geräte
+##Zugriff auf 1,4 Milliarden Geräte
 =================================
 
 Tausende Firmen in den Bereichen Online-Tracking, Analyse und Werbung
@@ -315,11 +304,11 @@ mit der Marktforschungsfirma Research Now stehen seit kurzem weitere 350
 Verfügung.
 
 
-Gesellschaftliche Auswirkungen von kommerzieller digitaler Überwachung
+#Gesellschaftliche Auswirkungen von kommerzieller digitaler Überwachung
 ======================================================================
 
 
-Permanente Sortierung der Bevölkerung
+##Permanente Sortierung der Bevölkerung
 =====================================
 
 Durch die beschriebenen Entwicklungen und Praktiken wird klar, dass eine
@@ -338,7 +327,7 @@ große Risiken für Einzelne – von Belästigung und Stalking bis
 Identitätsdiebstahl und Cyber-Kriminalität.
 
 
-Auswirkungen auf lebensentscheidende Fragen
+##Auswirkungen auf lebensentscheidende Fragen
 ===========================================
 
 Wenn Unternehmen Kriterien wie Geschlecht, Alter, ethnische oder
@@ -356,7 +345,7 @@ und personalisierte Angebote schon jetzt die „Reichen“ ein „anderes
 Internet als die Armen“ sehen würden.
 
 
-Wer sich falsch verhält…
+##Wer sich falsch verhält…
 ========================
 
 Abgesehen von Fehlern bei der Erfassung der gesammelten Daten können
@@ -375,9 +364,4 @@ Evgeny Morozov warnt vor einer mit der „Umweltkatastrophe“
 vergleichbaren „Datenkatastrophe“, die uns in einer Welt erwartet, in
 der persönliche Daten wie Kaffee oder jede andere Ware gehandelt
 werden“.
-</blockquote>
-<span style="color:black;background:#00cc00;">(End)</span>
-<a href="/">quit</a>
-</pre>
-</body></html>
 

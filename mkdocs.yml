@@ -1,0 +1,38 @@
+site_name: F.U.T.U.R.E.S.H.I.T.
+site_description: 'Post-Linke Cyberkommune'
+site_url: https://futureshit.de
+  
+theme: 
+        name: windmill-dark
+        locale: de
+        favicon: favicon.ico
+        include_search_page: true 
+        search_index_only: true
+nav:
+        - Home: index.md
+        - Artikel:
+                - Rise up!: riseup.md
+                - An Anarchisten: call.md  
+        - Technologie: 
+                - Blogs: blogs.md
+                - Bücher: books.md
+                - Dokumentationen: dokus.md
+                - Fiktion: fiction.md  
+                - Projekte: projects.md
+                - Vorträge: talks.md
+        - Privatsphäre: 
+                - Falsche Sicherheit: falsesec.md
+                - How To: howto.md
+                - Initiativen: inis.md
+                - Kommerzielle Überwachung: comsurv.md
+                - Properitäre Dienst: services.md
+                - Sicherheitstests: tests.md
+                - Service Provider: provider.md
+                - Tools: tools.md
+                - Veranstaltungen: events.md
+                - Widerstand: resist.md
+                - Sonstiges: misc.md
+        - Links:
+                - Karten: maps.md
+                - Leaks: leaks.md
+                - OSINT: osint.md

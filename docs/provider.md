@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="de-DE">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Service Provider</title>
-<link rel="stylesheet" type="text/css" href="../screen.css">
-</head>
-<body>
-    <pre>
-~$ less Service Provider
    - aktivix.org
    - all2all.be
    - alterezo.be
@@ -55,8 +45,4 @@
    - tachanka.org
    - toile-libre.org
    - <a href="https://www.diyisp.org/dokuwiki/doku.php?id=listofisps" target="_blank">DIY-Internet Service Provider</a>
-<span style="color:black;background:#00cc00;">(End)</span>
-<a href="/">quit</a>
-    </pre>
-</body></html>
 
