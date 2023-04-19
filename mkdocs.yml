@@ -1,6 +1,6 @@
 site_name: F.U.T.U.R.E.S.H.I.T.
 site_description: 'Post-Linke Cyberkommune'
-site_url: https://futureshit.de
+site_url: https://futureshit.github.io
   
 theme: 
         name: windmill-dark
@@ -10,29 +10,30 @@ theme:
         search_index_only: true
 nav:
         - Home: index.md
-        - Artikel:
-                - Rise up!: riseup.md
-                - An Anarchisten: call.md  
+        - Artikel: 
+                - Rise up! (2017): 1.articles/1.riseup.md
+                - Nudging (2017): 1.articles/2.nudging.md
+                - An Anarchisten (2018) : 1.articles/3.call.md  
         - Technologie: 
-                - Blogs: blogs.md
-                - Bücher: books.md
-                - Dokumentationen: dokus.md
-                - Fiktion: fiction.md  
-                - Projekte: projects.md
-                - Vorträge: talks.md
+                - Blogs: 2.technology/1.blogs.md
+                - Bücher: 2.technology/2.books.md
+                - Dokumentationen: 2.technology/3.docus.md
+                - Fiktion: 2.technology/4.fiction.md  
+                - Projekte: 2.technology/5.projects.md
+                - Vorträge: 2.technology/6.talks.md
         - Privatsphäre: 
-                - Falsche Sicherheit: falsesec.md
-                - How To: howto.md
-                - Initiativen: inis.md
-                - Kommerzielle Überwachung: comsurv.md
-                - Properitäre Dienst: services.md
-                - Sicherheitstests: tests.md
-                - Service Provider: provider.md
-                - Tools: tools.md
-                - Veranstaltungen: events.md
-                - Widerstand: resist.md
-                - Sonstiges: misc.md
+                - Falsche Sicherheit: 3.privacy/1.falsesec.md
+                - How To: 3.privacy/2.howto.md
+                - Initiativen: 3.privacy/3.inis.md
+                - Kommerzielle Überwachung: 3.privacy/4.comsurv.md
+                - Properitäre Dienst: 3.privacy/5.services.md
+                - Sicherheitstests: 3.privacy/6.tests.md
+                - Service Provider: 3.privacy/7.provider.md
+                - Tools: 3.privacy/8.tools.md
+                - Veranstaltungen: 3.privacy/9.events.md
+                - Widerstand: 3.privacy/10.resist.md
+                - Sonstiges: 3.privacy/11.misc.md
         - Links:
-                - Karten: maps.md
-                - Leaks: leaks.md
-                - OSINT: osint.md
+                - Karten: 4.links/1.maps.md
+                - Leaks: 4.links/2.leaks.md
+                - OSINT: 4.links/3.osint.md
