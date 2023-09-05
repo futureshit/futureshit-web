@@ -1,7 +1,8 @@
 # Allgemein
 
 - [Cryptome](https://cryptome.org)
-- [WikiLeaks](https://wikileaks.org)
+- [WikiLeaks](https://wikileaks.org) - [Archive](https://github.com/YetAnotherMorty/wikileaks-database)
+- [DDoSecrets](https://ddosecrets.com)
 
 # INTEL
 
@@ -16,6 +17,11 @@
 - [NSA Data on GitHub](https://github.com/transparencytoolkit/nsa-data)
 - [Edward Snowden Search](https://search.edwardsnowden.com/)
 - [NSA Playset](http://www.nsaplayset.org)
+- [CIA Hacking Tools](https://github.com/DonnchaC/cia-hacking-tool-archive)
+- [CIA HIVE](https://github.com/infoskirmish/hive)
+- [CIA Marble Framework](https://github.com/mzakyz666/WikiLeaks-Marble-CIA)
+- [NSA Documents](https://github.com/j3ssie/documents)
+- [Pegasus](https://github.com/yt0ng/Pegasus)
 
 # Politik
 
@@ -26,3 +32,7 @@
 - [Panama Papers](http://panamapapers.sueddeutsche.de/)
 - [Paradise Papers](https://projekte.sueddeutsche.de/paradisepapers/)
 - [Swiss Leaks](https://projects.icij.org/swiss-leaks/)
+
+# Sonstiges
+
+- [911](https://github.com/gadsden0/wikileaks-9-11-files)

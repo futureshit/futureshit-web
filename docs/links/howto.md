@@ -26,6 +26,8 @@
 + <a href="https://www.privacy-handbuch.de/handbuch_37a.htm" target="_blank">Daten verschlÃ¼sseln mit DM-Crypt</a>
 # Live-Systeme
 + Capulcu: <a href="https://capulcu.blackblogs.org/bandi/" target="_blank">Tails</a>
+# Betriebssysteme
++ <a href="https://privacy.sexy">Best practices for Windows, Mac & Linux</a>
 # Sonstiges
 + <a href="http://www.easy-network.de/mac-adresse-unter-linux-aendern.html" target="_blank">MAC-Adresse ändern</a></li>
 + <a href="https://www.privacy-handbuch.de/handbuch_42.htm" target="_blank">Daten löschen</a></li>

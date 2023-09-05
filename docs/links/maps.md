@@ -27,7 +27,7 @@
 
 # Überwachung
 
-- [Kamba4](https://kamba4.crux.uberspace.de)
+- [Surveillance under Surveillance](https://sunders.uber.space)
 - [CCTV Map](http://cctvmap.binarybase.org/)
 - [Sniffmap](http://sniffmap.telcomap.org)
 
