@@ -34,7 +34,7 @@ Alle hier aufgeführten Tools & Seiten werden von uns empfohlen:
 + <a href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations" target="_blank">AIMCD</a>
 + <a href="https://opensource.srlabs.de/projects/snoopsnitch" target="_blank">Snoopsnitch</a>
 + <a href="https://github.com/KillAllSnitches/macster">Mac Address Spoofer/Changer</a>
-+ Digitale Telefonnummer mit [satellite.me](satellite.me)
++ Digitale Telefonnummer mit [satellite.me](https://satellite.me)
 # Windows
 + Effektive einfache Firewall: <a href="https://www.henrypp.org/product/simplewall">Simplewall</a>
 + Windows10 debloat <a href="https://github.com/W4RH4WK/Debloat-Windows-10">Skripts</a>
