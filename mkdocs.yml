@@ -13,19 +13,19 @@ nav:
         - Artikel: 
                 - Rise up! (2017): articles/riseup.md
                 - Nudging (2017): articles/nudging.md
-                - An Anarchisten (2018) : articles/call.md  
-        - Medien: 
-                - Blogs: media/blogs.md
-                - Bücher: media/books.md
-                - Dokumentationen: media/docus.md
-                - Fiktion: media/fiction.md  
-                - Vorträge: media/talks.md
+                - An Anarchisten (2018) : articles/call.md
         - Privatsphäre: 
                 - Falsche Sicherheit: privacy/falsesec.md
                 - Kommerzielle Überwachung: privacy/comsurv.md
                 - Properitäre Dienste: privacy/services.md
                 - Google? Nein danke!: privacy/android.md
-                - Widerstand: privacy/resist.md             
+                - Widerstand: privacy/resist.md
+        - Medien: 
+                - Blogs: media/blogs.md
+                - Bücher: media/books.md
+                - Dokumentationen: media/docus.md
+                - Fiktion: media/fiction.md  
+                - Vorträge: media/talks.md     
         - Links:
                 - How To: links/howto.md
                 - Service Provider: links/provider.md
