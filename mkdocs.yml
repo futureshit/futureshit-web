@@ -11,29 +11,32 @@ theme:
 nav:
         - Home: index.md
         - Artikel: 
-                - Rise up! (2017): 1.articles/1.riseup.md
-                - Nudging (2017): 1.articles/2.nudging.md
-                - An Anarchisten (2018) : 1.articles/3.call.md  
-        - Technologie: 
-                - Blogs: 2.technology/1.blogs.md
-                - Bücher: 2.technology/2.books.md
-                - Dokumentationen: 2.technology/3.docus.md
-                - Fiktion: 2.technology/4.fiction.md  
-                - Projekte: 2.technology/5.projects.md
-                - Vorträge: 2.technology/6.talks.md
+                - Rise up! (2017): articles/riseup.md
+                - Nudging (2017): articles/nudging.md
+                - An Anarchisten (2018) : articles/call.md  
+        - Medien: 
+                - Blogs: media/blogs.md
+                - Bücher: media/books.md
+                - Dokumentationen: media/docus.md
+                - Fiktion: media/fiction.md  
+                - Vorträge: media/talks.md
         - Privatsphäre: 
-                - Falsche Sicherheit: 3.privacy/1.falsesec.md
-                - How To: 3.privacy/2.howto.md
-                - Initiativen: 3.privacy/3.inis.md
-                - Kommerzielle Überwachung: 3.privacy/4.comsurv.md
-                - Properitäre Dienst: 3.privacy/5.services.md
-                - Sicherheitstests: 3.privacy/6.tests.md
-                - Service Provider: 3.privacy/7.provider.md
-                - Tools: 3.privacy/8.tools.md
-                - Veranstaltungen: 3.privacy/9.events.md
-                - Widerstand: 3.privacy/10.resist.md
-                - Sonstiges: 3.privacy/11.misc.md
+                - Falsche Sicherheit: privacy/falsesec.md
+                - Kommerzielle Überwachung: privacy/comsurv.md
+                - Properitäre Dienste: privacy/services.md
+                - Google? Nein danke!: privacy/android.md
+                - Widerstand: privacy/resist.md             
         - Links:
-                - Karten: 4.links/1.maps.md
-                - Leaks: 4.links/2.leaks.md
-                - OSINT: 4.links/3.osint.md
+                - How To: links/howto.md
+                - Service Provider: links/provider.md
+                - Tools: links/tools.md
+                - Sicherheitstests: links/tests.md
+                - Operational Security: links/opsec.md
+                - Initiativen: links/inis.md
+                - Veranstaltungen: links/events.md
+                - Karten: links/maps.md
+                - Leaks: links/leaks.md
+                - OSINT: links/osint.md
+                - Sonstiges: links/misc.md
+
+

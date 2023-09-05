@@ -28,9 +28,9 @@
 + <a href="https://www.gnupg.org/index.de.html" target="_blank">PGP</a>
 + <a href="http://www.gpg4win.org/" target="_blank">PGP für Windows</a>
 # Smartphone
-+ https://guardianproject.info/apps/
-+ https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations
-+ https://opensource.srlabs.de/projects/snoopsnitch
++ <a href="https://guardianproject.info/apps/" target="_blank">Guardian Projekt</a>
++ <a href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations" target="_blank">AIMCD</a>
++ <a href="https://opensource.srlabs.de/projects/snoopsnitch" target="_blank">Snoopsnitch</a>
 
-[notice] Hilfe bei der Installation siehe [How To](2.howto.md).
+Hilfe bei der Installation siehe [How To](../links/howto.md).
 
