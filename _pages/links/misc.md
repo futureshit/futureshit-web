@@ -7,8 +7,10 @@ sidebar:
 permalink: /misc/
 ---
 
-## Auskunftsersuchengenerator
-+ <a href="https://www.datenschmutz.de/cgi-bin/auskunft" target="_blank">datenschmutz.de</a></li>
+## Generatoren
++ <a href="https://www.datenschmutz.de/cgi-bin/auskunft" target="_blank">datenschmutz.de</a>
++ [weg.li](https://www.weg.li/)
++ [widerspruch-epa.de](https://widerspruch-epa.de/widerspruchs-generator/)
 
 ## Gadgets
 + <a href="https://github.com/adamhrv/skylift">Wifi Spoofing Device</a>

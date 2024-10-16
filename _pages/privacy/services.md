@@ -9,7 +9,7 @@ permalink: /services/
 Properitäre Dienste, die mit ihren kostenlos Angeboten Kunden 
 locken und „Sicherheit“ versprechen, haben größtensteils einen großen 
 Haken: Privatsphärenschutz!
-Seit den <a href="https://edwardsnowden.com/revelations/index.html" target="_blank">Snowden-Enthüllungen</a> dürfte auch klar sein, dass Geheimdienste
+Seit den <a href="https://github.com/iamcryptoki/snowden-archive" target="_blank">Snowden-Enthüllungen</a> dürfte auch klar sein, dass Geheimdienste
 „Hintertüren“ bei großen Providern (Apple, Yahoo, Google, Microsoft,
 Facebook, …) haben.
 Googlemail <a href="http://www.heise.de/newsticker/meldung/Kinderpornographie-Google-verteidigt-E-Mail-Scan-2284919.html"

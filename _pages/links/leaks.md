@@ -24,7 +24,7 @@ permalink: /leaks/
 - [Transparency Toolkit](https://ht.transparencytoolkit.org/)
 - [Hacking Team Manuals](https://theintercept.com/2014/10/30/hacking-team/#manuals)
 - [NSA Data on GitHub](https://github.com/transparencytoolkit/nsa-data)
-- [Edward Snowden Search](https://search.edwardsnowden.com/)
+- [Edward Snowden](hhttps://github.com/iamcryptoki/snowden-archive)
 - [NSA Playset](http://www.nsaplayset.org)
 - [CIA Hacking Tools](https://github.com/DonnchaC/cia-hacking-tool-archive)
 - [CIA HIVE](https://github.com/infoskirmish/hive)

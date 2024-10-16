@@ -19,6 +19,6 @@ permalink: /talks/
 ## How to
 + CCC-TV: <a href="https://media.ccc.de/browse/conferences/datenspuren/2014/DS2014_-_5925_-_de_-_kleiner_saal_-_201409131300_-_digitale_selbstverteidigung_-_wie_schutze_ich_mich_vor_uberwachung_-_stefan_bocker.html#video" target="_blank">Digitale Selbstverteidigung: Wie schütze ich mich vor Überwachung?</a>
 + CCC-TV: <a href="https://media.ccc.de/browse/conferences/datenspuren/2014/DS2014_-_5988_-_de_-_grosser_saal_-_201409131400_-_unsichtbar_durchs_netz_mit_i2p_-_qbi.html#video" target="_blank">Eine Einführung in das Anonymisierungsnetzwerk I2P</a>
-+ <a title="CCC-TV" href="https://media.ccc.de/tags/" target="_blank">mehr</a>
++ <a title="CCC-TV" href="https://media.ccc.de/" target="_blank">mehr</a>
 
 

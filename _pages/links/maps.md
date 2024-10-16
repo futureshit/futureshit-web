@@ -51,7 +51,3 @@ permalink: /maps/
 
 - [Liveuamap](http://liveuamap.com)
 - [Nukemap](http://nuclearsecrecy.com/nukemap/)
-
-## Urban Exploration
-
-- [Lost Places Germany (Google Maps)](https://www.google.com/maps/d/viewer?ll=50.846371908576046%2C11.963974891658395&z=9&mid=1M6OeH-DCWCLHGLQ2_CiGPd0aO7IjPHqo)

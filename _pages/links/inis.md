@@ -7,7 +7,6 @@ sidebar:
 permalink: /inis/
 ---
 
-+   <a href="https://antikyb.blackblogs.org/initiativen/www.ak-ueberwachung.or" target="_blank">Arbeitskreis Überwachung</a>
 +   <a href="https://digitalcourage.de/" target="_blank">Digital Courage</a>
 +   <a href="https://www.eff.org/" target="_blank">Electronic Frontier Foundation</a>
 +   <a href="https://privatsphaere-leipzig.org/" target="_blank">Bündnis Privatsphäre Leipzig</a>

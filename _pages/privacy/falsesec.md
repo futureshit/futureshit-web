@@ -16,7 +16,7 @@ durch die Kundendaten. Wie auch bei den<a title="Properitäre Dienste &amp; der 
 sind Unternehmen regelrecht gezwungen bestimmte Daten an Behörden zu
 übergeben. Im schlimmsten Fall betreibt der Geheimdienst selber einen
 pseudo-sicheren Dienst oder arbeitet einfach Hand in Hand mit dem
-Provider (Siehe <a href="http://www.wired.com/2007/11/hushmail-to-war/" target="_blank">Hushmail</a>, <a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/" target="_blank">safe-mail</a>, etc.).
+Provider (Siehe <a href="http://www.wired.com/2007/11/hushmail-to-war/" target="_blank">Hushmail</a>, <a href="https://web.archive.org/web/20170708021703/https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/" target="_blank">safe-mail</a>, etc.).
 
 Provider, denen man vertrauen kann und die es auch wert sind etwas Geld
 zu investieren (Spendenbasis!), findest du [hier](../provider/).

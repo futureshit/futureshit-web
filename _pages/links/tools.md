@@ -19,23 +19,23 @@ Alle hier aufgeführten Tools & Seiten werden von uns empfohlen:
 ## Anonymisierung
 + <a href="https://www.torproject.org/download/download-easy.html.en" target="_blank">Tor-Browser-Bundle</a>
 + <a href="https://mullvad.net/de/browser">Mullvad Browser</a>
-+ <a href="https://www.anonym-surfen.de/software.html" target="_blank">JonDonym</a>
 + <a href="https://github.com/haad/proxychains" target="_blank">proxychains</a> (Zb. für Anwendungen die keine Proxyeinstellungen haben)
 + <a href="https://www.wireguard.com" target="_blank">Wireguard VPN</a>
-+ Simples Setup für Wireguard VPN (zb. auf RaspberryPi) <a href="https://www.pivpn.io">PIVPN</a>
+  + Simples Setup für Wireguard VPN (zb. auf RaspberryPi) <a href="https://www.pivpn.io">PIVPN</a>
 + Anonymisierendes OS <a href="https://tails.net">TAILS</a>
 
 ## Browser-Plugins
 + <a href="https://noscript.net/getit" target="_blank"><span class="author-g-tqy5ovrn5oqkm1z122zr">Noscript</span></a>
 + <a href="https://github.com/gorhill/uBlock/" target="_blank"><span class="author-g-tqy5ovrn5oqkm1z122zr">uBlock Origin</span></a>
 + <a href="https://www.eff.org/https-everywhere" target="_blank"><span class="author-g-tqy5ovrn5oqkm1z122zr">httpseverywhere</span></a>
-+ <a href="https://www.ghostery.com/en/try-us/download-add-on/" target="_blank"><span class="author-g-z122zt8sdyx6eayfr2jm">ghostery</span></a>
++ <a href="https://www.ghostery.com/" target="_blank"><span class="author-g-z122zt8sdyx6eayfr2jm">ghostery</span></a>
 + <a href="https://www.eff.org/privacybadger" target="_blank">privacy badger</a>
 + <a href="https://disconnect.me/#get-cta" target="_blank">disconnect</a>
 
 ## Chat
 + Skype Alternative: <a href="https://palava.tv/" target="_blank">Palava</a>
 + XMPP Clients die <a href="https://omemo.top" target="_blank">Omemo</a>-Verschlüsselung unterstützen
++ [Video-Konferenz](https://meet.jit.si/)
 
 ## Verschlüsselung
 + <a href="https://www.veracrypt.fr/" target="_blank">Veracrypt</a> (Windows)
@@ -51,7 +51,7 @@ Alle hier aufgeführten Tools & Seiten werden von uns empfohlen:
 + Digitale Telefonnummer mit [satellite.me](https://satellite.me)
 
 ## Windows
-+ Effektive einfache Firewall: <a href="https://www.henrypp.org/product/simplewall">Simplewall</a>
++ Effektive einfache Firewall: <a href="https://github.com/henrypp/simplewall">Simplewall</a>
 + Windows10 debloat <a href="https://github.com/W4RH4WK/Debloat-Windows-10">Skripts</a>
 
 ## Passwörter
@@ -61,8 +61,9 @@ Alle hier aufgeführten Tools & Seiten werden von uns empfohlen:
 ## Cloud
 + [Nextcloud](https://nextcloud.com/)
 
-## Sonstiges
+## Adblock
 + DNS & Adblock für eigene Netzwerke (zb. mit RaspberryPi) <a href="https://pi-hole.net">Pi-Hole</a>
+
 
 Hilfe bei der Installation siehe [How To](../howto/).
 
