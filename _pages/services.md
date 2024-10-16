@@ -37,7 +37,6 @@ Mögliche negative Auswirkungen auf Einzelne sind schwer vorstellbar, weil sie z
 
 ## Alternativen
 
-Provider, denen man vertrauen kann und die es auch wert sind etwas Geld
-zu investieren (Spendenbasis!), findest du [hier](../provider/).
+Provider, denen man vertrauen kann und die es auch wert sind etwas Geld zu investieren (Spendenbasis!), findest du [hier](../provider/).
 
 

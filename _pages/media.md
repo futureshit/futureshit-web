@@ -23,6 +23,7 @@ toc_sticky: true
 +  <a href="https://cash.blackblogs.org/">Bargeld für alle(s)!</a>
 +  <a href="https://www.neues-deutschland.de/rubrik/smarteworte">Neues Deutschland: Smarte Worte</a>
 + <a href="https://maschinenstuermerdistro.noblogs.org">Maschinenstürmer Distro</a>
++ [BetterWithoutAI](https://betterwithout.ai/)
 
 ## Bücher
 

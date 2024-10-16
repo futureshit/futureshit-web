@@ -18,6 +18,7 @@ toc_sticky: true   # enables sticky toc
 + Reporter without borders: <a href="http://www.rsf.org/IMG/pdf/Bloggers_Handbook2.pdf">Bloggers & Cyber-Dissidents Handbook</a>
 + Riseup: <a href="https://riseup.net/en/security/resources" target="_blank">Digital Security for Activists</a>
 + EFF: <a href="https://ssd.eff.org/" target="_blank">Surveillance Self-Defense</a>
++ Mehr: [NoTrace Project](https://www.notrace.how/resources/)
 
 ### Browser (+ Plugins)
 + <a href="https://www.privacy-handbuch.de/handbuch_21.htm" target="_blank">Spurenarm Surfen</a>
@@ -61,6 +62,8 @@ toc_sticky: true   # enables sticky toc
 - [Wie die Polizei verhört und wie wir uns dagegen verteidigen können](https://projet-evasions.org/wp-content/uploads/2022/07/220707-PDF-D-web-verhor.pdf) (PDF)
 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 - [Security Checklist](https://github.com/geeknik/personal-security-checklist)
+- [Threat Library](https://www.notrace.how/threat-library/)
+- [Eears & Eyes](https://www.notrace.how/earsandeyes/)
 
 ## Open Source Intelligence
 
@@ -71,6 +74,14 @@ toc_sticky: true   # enables sticky toc
 + [Übersicht](https://firebog.net)
 + [NSA](https://github.com/ProjectZeroDays/NSABlocklist)
 + [Windows](https://github.com/winkler-winsen/microsoft-telemetry-blocklist-BSI-)
++ [Spotify](https://github.com/x0uid/SpotifyAdBlock)
++ [Cookies](https://www.i-dont-care-about-cookies.eu/de)
++ [Adguard](https://github.com/AdguardTeam/AdguardFilters)
++ [https://easylist.to/](EeasyList)
++ [AdBlockPlus](https://www.i-dont-care-about-cookies.eu/abp/)
++ [Cookiemonster](https://secure.fanboy.co.nz/fanboy-cookiemonster.txt)
++ [Smart-TV](https://github.com/hkamran80/blocklists/blob/main/smart-tv.txt)
++ [Tracker](https://github.com/d3ward/toolz/blob/master/src/d3host.txt)
 
 ## Veranstaltungen
 
@@ -176,6 +187,15 @@ toc_sticky: true   # enables sticky toc
 
 - [Liveuamap](http://liveuamap.com)
 - [Nukemap](http://nuclearsecrecy.com/nukemap/)
+
+### Orte
+
+- [Atlas Obscura](https://www.atlasobscura.com/)
+- [Hoodmaps](https://hoodmaps.com/)
+
+### Wetter
+
+- [Windy](https://www.windy.com/)
 
 # Hardware 
 

@@ -57,14 +57,7 @@ toc_sticky: true
 
 #### Alternative Telefon Apps
 
-Diese Apps ersetzen die vorinstallierten Standard-Apps auf Android-Telefonen, die oft von Google stammen. Sie bieten ähnliche Funktionen und gewähren dir gleichzeitig mehr Kontrolle über deine Daten.
-        
-- [Simple SMS Messenger - Einfacher SMS-Messenger](https://f-droid.org/packages/com.simplemobiletools.messaging.pro/)
-- [Simple Dialer Pro - Schlichter Telefon-App-Ersatz](https://f-droid.org/packages/com.simplemobiletools.dialer.pro/)
-- [Simple Contacts Pro - Einfache Kontakte-App](https://f-droid.org/packages/com.simplemobiletools.contacts.pro/)
-- [Simple File Manager Pro - Schlichter Dateimanager](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro/)
-- [Simple Gallery Pro - Einfache Galerie-App](https://f-droid.org/packages/com.simplemobiletools.gallery.pro/)
-- [Simple Keyboard - Minimalistische Tastatur-App](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod/)
+Leider wurden die Simple Mobile Tools aufgekaufen und von da ist leider nichts mehr zu erwarten. Alternativen siehe [hier](https://gnulinux.ch/alternativen-fuer-die-simple-mobile-tools).
 
 #### nützliche Apps
 
@@ -103,22 +96,23 @@ Diese Apps ersetzen die vorinstallierten Standard-Apps auf Android-Telefonen, di
 ### Browser
 + <a href="https://browserleaks.com/">Browserleaks</a>
 + <a href="https://www.ssllabs.com/ssltest/viewMyClient.html" target="_blank">SSL</a>
++ [Adblock Test](https://d3ward.github.io/toolz/adblock.html)
 
 ### Email
 + <a href="https://emailprivacytester.com/" target="_blank">Privacy Tester</a>
 + <a href="https://www.checktls.com/" target="_blank">SSL-Verschlüsselung testen</a>
++ <a href="https://mxtoolbox.com/EmailHeaders.aspx" target="_blank">Email Header Analyzer</a> by mxtoolbox
 
 ### Server
 + <a href="https://www.ssllabs.com/ssltest/analyze.html" target="_blank">SSL Test</a> by Qualys
 + <a href="http://dnscheck.pingdom.com/" target="_blank">DNS</a> by Pingdom
 + <a href="https://mxtoolbox.com/NetworkTools.aspx" target="_blank">Email</a> &amp; <a href="https://mxtoolbox.com/SuperTool.aspx" target="_blank">mehr</a> by mxtoolbox
 
-### Misc
+### Network
 + <a href="http://www.yougetsignal.com/tools/visual-tracert/" target="_blank">Visual Traceroute</a> (Host/Proxy) by yougetsignal
 + <a href="http://www.yougetsignal.com/tools/web-sites-on-web-server/" target="_blank">Reverse IP Domain Check</a> by yougetsignal
 + <a href="http://www.yougetsignal.com/tools/network-location/" target="_blank">Network Location Tool</a> by yougetsignal
 + <a href="http://www.yougetsignal.com/tools/open-ports/" target="_blank">Open Port Finder</a> by yougetsignal
-+ <a href="https://mxtoolbox.com/EmailHeaders.aspx" target="_blank">Email Header Analyzer</a> by mxtoolbox
 
 ## OSINT
 
@@ -134,3 +128,6 @@ Diese Apps ersetzen die vorinstallierten Standard-Apps auf Android-Telefonen, di
 + [weg.li](https://www.weg.li/)
 + [widerspruch-epa.de](https://widerspruch-epa.de/widerspruchs-generator/)
 
+## Noch mehr?
+
+[opensourcealternative.to](https://opensourcealternative.to/)
