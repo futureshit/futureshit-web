@@ -4,9 +4,8 @@ sidebar:
   nav: "docs"
 categories: anleitung 
 tags: passwörter sicherheit
+title: Sichere Passwörter
 ---
-
-## Sichere Passwörter
 
 Ein Passwort hier, ein Passwort da. Überall sind wir auf Passwörter angewiesen, egal ob bei der Bank, Krankenkasse, Email oder auf Arbeit. Wir müssen uns eine Menge merken, denn: niemals ein Passwort mehrfach verwenden! Wird zB. ein Onlineshop gehackt, bei dem du mal bestellt hast, dann kann dabei dein Passwort zusammen mit deiner verwendeten Email-Adresse ausgelesen werden. Ist das Passwort dann dasselbe wie das deines Email-Postfaches, dann kann der Angreifer sehr einfach deinen Account übernehmen. Oder natürlich auch andere mit der Email-Adresse registrierte Dienste.
 
