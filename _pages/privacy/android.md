@@ -5,6 +5,10 @@ sidebar:
 #categories:
 #tags:
 permalink: /android/
+toc: true
+toc_label: "Inhalt"
+toc_icon: "star"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_sticky: true   # enables sticky toc
 ---
 
 # Eine Welt ohne Google ist m&ouml;glich

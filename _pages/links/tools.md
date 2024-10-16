@@ -5,6 +5,10 @@ sidebar:
 #categories:
 #tags:
 permalink: /tools/
+toc: true
+toc_label: "Inhalt"
+toc_icon: "star"
+toc_sticky: true
 ---
 
 Alle hier aufgeführten Tools & Seiten werden von uns empfohlen:

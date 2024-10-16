@@ -5,6 +5,10 @@ sidebar:
 #categories:
 #tags:
 permalink: /docus/
+toc: true
+toc_label: "Inhalt"
+toc_icon: "star"
+toc_sticky: true
 ---
 
 ## 2022

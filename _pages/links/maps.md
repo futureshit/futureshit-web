@@ -5,6 +5,10 @@ sidebar:
 #categories:
 #tags:
 permalink: /maps/
+toc: true
+toc_label: "Inhalt"
+toc_icon: "star"
+toc_sticky: true
 ---
 
 ## Verkehr

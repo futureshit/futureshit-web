@@ -5,6 +5,10 @@ sidebar:
 #categories:
 #tags:
 permalink: /fiction/
+toc: true
+toc_label: "Inhalt"
+toc_icon: "star"
+toc_sticky: true
 ---
 
    Vorbemerkung:
@@ -23,7 +27,7 @@ permalink: /fiction/
    Natürlich ist das längst nicht alles, aber eine kleine Auswahl 
    sehenswerter Filme & Serien, sowie lesenswerter Bücher:
 
-# Filme
+## Filme
 + GATTACA
 + Equilibrium
 + Transcendence
@@ -51,7 +55,7 @@ permalink: /fiction/
 + Zurück in die Zukunft
 + Who Am I
 
-# Serien
+## Serien
 + Dr. Who
 + Person of Interest
 + Black Mirror
@@ -68,7 +72,7 @@ permalink: /fiction/
 + Altered Carbon
 + Schöne neue Welt
 
-# Bücher
+## Bücher
 + Laurie Penny - Babys machen
 + Ursula K. Le Guin - Freie Geister
 + Becky Chambers - Der lange Weg zu einem kleinen zornigen Planeten
