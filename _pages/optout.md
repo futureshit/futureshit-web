@@ -1,10 +1,9 @@
 ---
+title: Opt out
 layout: single
+permalink: /optout/
 sidebar:
   nav: "docs"
-#categories:
-#tags:
-permalink: /optout/
 ---
 Eine Auflistung möglicher Praktiken:
 

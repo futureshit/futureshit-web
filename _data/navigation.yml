@@ -1,56 +1,22 @@
 main:
-  - title: Artikel.
-    url: /categories/
+  - title: Resources
+    url: /sources/
+  - title: Tools
+    url: /tools/
+  - title: Media
+    url: /media/
+
 
 docs:
-  - title: Privatsphäre.
+  - title: Hilfe zur Selbsthilfe
     children:
-      - title: "Falsche Sicherheit"
-        url: /falsesec/
-      - title: "Google? Nein Danke!"
-        url: /android/
-      - title: "Kommerzielle Überwachung"
-        url: /comsurv/
-      - title: "Kostenlose Dienste"
+      - title: Anleitungen
+        url: /categories/anleitung/
+      - title: Properitäre Dienste
         url: /services/
-      - title: "Opt out"
-        url: /optout/
-
-  - title: Links.
-    children:
-
-      - title: "Anleitungen"
-        url: /howto/
-      - title: "Diverses"
-        url: /misc/
-      - title: "Initiativen"
-        url: /inis/
-      - title: "Karten"
-        url: /maps/
-      - title: "Leaks"
-        url: /leaks/
-      - title: "OpSec"
-        url: /opsec/
-      - title: "OsInt"
-        url: /osint/
-      - title: "Provider"
+      - title: Sichere Anbieter
         url: /provider/
-      - title: "Tests"
-        url: /tests/
-      - title: "Tools"
-        url: /tools/
-      - title: "Veranstaltungen"
-        url: /events/
-
-  - title: Media.
-    children:
-      - title: "Blogs"
-        url: /blogs/
-      - title: "Bücher"
-        url: /books/
-      - title: "Dokumentationen"
-        url: /docus/
-      - title: "Fiktion"
-        url: /fiction/
-      - title: "Vorträge"
-        url: /talks/
+      - title: Opt out
+        url: /optout/
+      - title: Aufruf
+        url: /categories/aufruf/

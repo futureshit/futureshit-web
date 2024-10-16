@@ -1,25 +1,26 @@
 ---
-sidebar:
-  nav: "docs"
 categories: anleitung 
 tags: passwörter sicherheit
 title: Sichere Passwörter
 toc: true
 toc_label: "Inhalt"
-toc_icon: "star"
+toc_icon: "file-lines"
+classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 Ein Passwort hier, ein Passwort da. Überall sind wir auf Passwörter angewiesen, egal ob bei der Bank, Krankenkasse, Email oder auf Arbeit. Wir müssen uns eine Menge merken, denn: niemals ein Passwort mehrfach verwenden! Wird zB. ein Onlineshop gehackt, bei dem du mal bestellt hast, dann kann dabei dein Passwort zusammen mit deiner verwendeten Email-Adresse ausgelesen werden. Ist das Passwort dann dasselbe wie das deines Email-Postfaches, dann kann der Angreifer sehr einfach deinen Account übernehmen. Oder natürlich auch andere mit der Email-Adresse registrierte Dienste.
 
-Überprüfe ob deine Email-Adresse schon einmal in einem Hack vorgekommen ist: https://haveibeenpwned.com  
+Überprüfe ob deine Email-Adresse schon einmal in einem Hack vorgekommen ist: [haveibeenpwned.com](https://haveibeenpwned.com)
 
 ## Sichere Passwörter
 
-Um sich sichere Passwörter zu generieren und vor allem komfortabel speichern zu können, sollte man einen Passwortmanager (zB. KeePassXC) benutzen. Dort kann man alle seine Logins verwalten und sich sehr komplexe  (=sichere) Passwörter generieren lassen. Der Vorteil dabei ist auch, das man sich lediglich ein Passwort - nämlich das für den Passwortmanager - merken muss.
+Um sich sichere Passwörter zu generieren und vor allem komfortabel speichern zu können, sollte man einen Passwortmanager (zB. [KeePassXC](https://keepassxc.org)) benutzen. Dort kann man alle seine Logins verwalten und sich sehr komplexe  (=sichere) Passwörter generieren lassen. Der Vorteil dabei ist auch, das man sich lediglich ein Passwort - nämlich das für den Passwortmanager - merken muss.
 
 Was ein sicheres Passwort ausmacht: Groß/klein, Buchstaben, Zahlen, Zeichen, Länge, Komplexität, keine privaten Daten
 
-## Unsicherhere Passwörter
+## Unsichere Passwörter
 
 Ein unsicheres Passwort ist mit relativ wenig Aufwand schnell zu "knacken":
 
@@ -62,6 +63,6 @@ KeePassXC (oder auch andere) Passwortmanager lassen sich in der Regel auch auf m
 - Passwörter regelmäßig wechseln
 
 ## Tools
-- Offline Wörterbuch-Passwort Generator mit Würfeln: Diceware 
-- Online Wörterbuch-Passwort Generator mit Erklärung: https://diceware.rempe.us
-- DIY-Passwortmanager zum selber betreiben: Vaultwarden
+- Offline Wörterbuch-Passwort Generator mit Würfeln: [Dice](https://www.eff.org/dice) 
+- Online Wörterbuch-Passwort Generator mit Erklärung: [Diceware](https://diceware.rempe.us)
+- Passwortmanager zum selber betreiben: [Vaultwarden](https://github.com/dani-garcia/vaultwarden)

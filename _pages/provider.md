@@ -2,8 +2,6 @@
 layout: single
 sidebar:
   nav: "docs"
-#categories:
-#tags:
 permalink: /provider/
 ---
 

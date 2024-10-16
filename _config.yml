@@ -212,7 +212,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: # true
+      comments: false
       share: false
       related: true
   # _docs
@@ -222,4 +222,3 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-
